@@ -1,0 +1,1 @@
+Directory from which files are read must contains "logs" in name.
